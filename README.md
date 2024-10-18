@@ -1,4 +1,6 @@
-👋 Hi, I'm Satyaki, an enthusiastic data scientist with a passion for transforming raw data into meaningful insights. With a strong foundation in machine learning, deep learning, and generative AI, I love exploring how AI can solve real-world problems.
+👋 Hi, I'm Satyaki!
+
+An enthusiastic data scientist with a passion for transforming raw data into meaningful insights. With a strong foundation in machine learning, deep learning, and generative AI, I love exploring how AI can solve real-world problems.
 
 💡 Built and deployed machine learning models for predictive analytics, natural language processing, and computer vision.
    Experimented with generative models to create innovative AI-driven solutions.
