@@ -8,7 +8,7 @@
    
 **🌱 Currently Learning: Advanced reinforcement learning and scaling AI models.**
 
-### 💻 Technologies I Work With: Python, TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, SQL, Azure, Qdrant, and more.
+**💻 Technologies I Work With: Python, TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, SQL, Azure, Qdrant, and more.**
 
 **🔗 Let's connect and collaborate on innovative AI-driven projects!**
 
