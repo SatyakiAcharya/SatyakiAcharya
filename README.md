@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Satyaki | Data Scientist
 
-<!--
-**SatyakiAcharya/SatyakiAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic data scientist with a passion for transforming raw data into meaningful insights. With a strong foundation in machine learning, deep learning, and generative AI, I love exploring how AI can solve real-world problems.
 
-Here are some ideas to get you started:
+💡 Built and deployed machine learning models for predictive analytics, natural language processing, and computer vision.
+   Experimented with generative models to create innovative AI-driven solutions.
+   Developed end-to-end pipelines for data preprocessing, feature engineering, and model deployment.
+🌱 Currently Learning: Advanced reinforcement learning and scaling AI models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technologies I Work With: Python, TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, SQL, Azure, Qdrant, and more.
+
+🔗 Let's connect and collaborate on innovative AI-driven projects!
+
